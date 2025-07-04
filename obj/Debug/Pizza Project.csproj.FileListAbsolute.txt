@@ -1,0 +1,13 @@
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\bin\Debug\Pizza Project.exe.config
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\bin\Debug\Pizza Project.exe
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\bin\Debug\Pizza Project.pdb
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\bin\Debug\aa\Pizza Project.resources.dll
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\Pizza_Project.Form1.aa.resources
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\aa\Pizza Project.resources.dll
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\Pizza Project.exe
+D:\New folder\Course 14 - C# - Level 1\31 - Introduction About Controls\Pizza Project\obj\Debug\Pizza Project.pdb
